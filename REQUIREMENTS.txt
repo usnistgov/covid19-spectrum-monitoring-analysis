@@ -1,0 +1,7 @@
+papermill>=2.3
+pandoc
+# ipywidgets
+pandas>=1.0
+# labbench
+openpyxl
+notebook_as_pdf
